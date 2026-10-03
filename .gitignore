@@ -1,0 +1,38 @@
+﻿# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Unity generated project files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Build files
+*.apk
+*.aab
+*.unitypackage
+
+# Gradle
+.gradle/
+**/build/
+
+# Android generated files
+**/intermediates/
+**/outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
